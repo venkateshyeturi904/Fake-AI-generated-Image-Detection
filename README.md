@@ -27,4 +27,4 @@ To make it easier for users to classify images, we created a simple and intuitiv
 
 ## Author   
 **Name :** Yeturi Venkatesh   
-**Contact :**venkateshyeturi904@gmail.com
+**Contact :** venkateshyeturi904@gmail.com
